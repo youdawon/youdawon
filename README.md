@@ -4,14 +4,9 @@
 
 ### Welcome My Space!
 
-Hi there, I'm [Gilsang Jo](https://www.linkedin.com/in/gilsang), a Repulic of korea   
-I'm currently working as a Cloud SA(Solutions Architect) in Seoul.
+Hi there, I'm [Gilsang Jo](https://www.linkedin.com/in/youdawon), a Repulic of korea
 
-<!-- - 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
-- 🌱 Interesting on [Devops](https://github.com/jogilsang/manual-devops)  
-- 🐳 My MBTI is ENFP (100%)
-- 🤙 This is my [Blog](https://blog.naver.com/jogilsang) 
-- 💬 Give me Question [Click](https://github.com/jogilsang/jogilsang/issues) 
+- 🤙 This is my [Blog]([https://youdawon.github.io]) 
 
 <!-- if you want, SNS icon
 **SNS:**  
